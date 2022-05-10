@@ -1,0 +1,300 @@
+
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Lora', serif;
+
+}
+
+
+
+
+body {
+  padding-top: 100px;
+  padding-right: 400px;
+  padding-left: 800px;
+  padding-bottom: 100px;
+  margin: 20px;
+  background-color: #f4f4f4;
+  border: 10px;
+  border-color:  black;
+
+
+}
+.entireresume {
+  border: 10px;
+  border-color: black;
+  width: 800px;
+  height: 1000px;
+  background-color: white;
+  box-shadow: 10px 10px, lightblue;
+}
+
+.leftsidepic img {
+  border-radius:100%;
+  border: 5px solid rgba(255,155,0,.7);
+  border-color: #f4f4f4;
+  margin-left:50px;
+  margin-top: 30px;
+}
+
+
+/*.left {
+  height: 1000px;
+  width: 4px;
+  background-color: #e0eeee;
+  float: left;
+  position: fixed;
+} */
+
+/*.introductions > h1 {
+  display: inline-block;
+  float: right;
+  padding-top: 20px;
+  padding-right: 200px;
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+
+}
+.introductions {
+  display: inline-block;
+  float: right;
+  padding-top: 20px;
+  padding-right: 10px;
+}
+
+/*.headings > p {
+  display: block;
+  float: right;
+  padding-top: 32px;
+  font-size: 20px;
+  font-family: 'Lora', serif;
+  padding-right: -140px;
+}
+
+.introductions > p {
+  display: inline-block;
+  float: right;
+  width: 50%;
+  padding-top: 48px;
+  font-size: 20px;
+  font-family: 'Lora', serif; */
+
+
+
+/*.introductions>h1 {
+  display: inline-block;
+  padding-top: 200px;
+  padding-left: 100px;
+  float:right;
+
+}
+
+.introductions>h2 {
+  display: inline-block;
+  padding-top: 200px;
+  padding-left: 100px;
+  float:right;
+}
+
+
+.introductions>p {
+  display: inline-block;
+  padding-top: 200px;
+  padding-left: 100px;
+  float:right;
+  width: 50%;
+} */
+
+
+
+.education {
+  width: 300px;
+  border: 5px solid #FC844F;
+  padding: 120px 4px 60px 4px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: -120px;
+  border-radius: 20px 20px;
+  background-color:#f4f4f4;
+  display: inline-block;
+  height: 600px;
+}
+
+
+/*.intro > h1 {
+  padding-left: 400px;
+  padding-top: -400px;
+  float: right;
+  display: inline-block;
+}
+
+.intro > h2 {
+  padding-left: 400px;
+  padding-top: -400px;
+  float: right;
+  display: inline-block;
+}
+
+.intro > p {
+  /padding-left: 400px;
+  padding-top: -400px;
+  float: right;
+  display: inline-block;
+} */
+
+
+
+
+
+
+.education>h3 {
+  font-size: 30px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  font-family: 'lora', serif;
+  font-weight: bold;
+}
+/*padding top right bottom left */
+.suheadingeducation > h3 {
+  font-size: 25px;
+  padding: 4px 0px 0px 25px;
+  font-family: 'lora', serif;
+
+}
+
+.suheadingeducation > p {
+  font-size: 20px;
+  padding: 4px 0px 16px 25px;
+
+  font-family: 'lora', serif;
+  /*display: inline-block;*/
+}
+.heading2>h3 {
+font-size: 30px;
+padding: 4px 0px 16px 25px;
+font-family: 'lora', serif;
+font-weight: bold;
+}
+.heading2>p {
+  font-size: 20px;
+
+  padding: 4px 0px 16px 25px;
+
+  font-family: 'lora', serif;
+  /*padding-right: 20px;*/
+
+}
+
+/*RIGHT SIDE*/
+
+
+.headingwork {
+  font-size: 30px;
+  padding-bottom: 20px;
+  padding-top: 16px;
+  font-weight: bold;
+  font-family: 'lora', serif;
+}
+
+.content>p {
+  font-size: 20px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  font-family: 'lora', serif;
+  width:350px;
+}
+
+p span.bold{
+  font-weight: bold;
+}
+
+
+
+.intro>h1 {
+  padding-top: -200px;
+  float: right
+}
+
+.introductions > p {
+  display: inline-block;
+  float: right;
+  padding-top: 100px;
+  width: 50%;
+  height: 20%;
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  line-height: 1.5;
+
+}
+
+.personalinfo>img {
+  display: inline-block;
+  height: 50px;
+  padding-top: 10px;
+
+
+  /*padding-left: 10px;*/
+  float: left;
+}
+
+
+  /*padding-left: 10px;*/
+  float: left;
+}
+
+
+
+.phone {
+  width: 50px;
+
+}
+.phone>p {
+  display: inline-block;
+  padding-top: 8px;
+  padding-left: 140px;
+  padding: 0px 20px 0px 150px;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: 'lora', serif;
+}
+
+.telephoto img {
+  display: inline-block;
+  padding: 0px 20px 0px 150px;
+
+  float: left;
+}
+
+
+
+
+/* .introductions >  p {
+  width: 40%;
+    float: right;
+    padding-right: 80px;
+    padding-bottom: 20px;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif
+  } */
+/*.rightside {
+  display: flex;
+  flex-flow: column;
+  float: right;
+} */
+
+
+
+
+
+/*.right {
+  height: 100px;
+  width: 4px;
+  background-color: black;
+  float: right;
+  position: fixed;
+
+} */
